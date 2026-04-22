@@ -7,7 +7,7 @@ import javax.swing.JLabel;
 
 /**
  *
- * @author @AbdullahShahid01
+ * @author @Yuvrajsingh200205
  */
 public class Runner {
 
